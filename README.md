@@ -1,7 +1,9 @@
-### Hola 👋
+###
+
+![image](https://github.com/suryaravula/suryaravula/assets/62894191/19c3409b-d825-47ee-a418-b13c2846e86c)
 
 
-🔭 I’m currently working on data science projects
-🌱 I’m currently learning Data Analytics, Machine Learing, Data Engineering
-🤔 I’m looking for help with Data Science related questions and projects
-📫 Reach me: suryagoudravula@gmail.com
+
+
+
+
